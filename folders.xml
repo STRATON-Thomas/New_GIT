@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Appli>
+   <Folder Name="Exception programs">
+      <Program Name="pOnBadIndex"/>
+      <Program Name="pOnDivZero"/>
+      <Program Name="pShutDown"/>
+      <Program Name="pStartup"/>
+   </Folder>
+   <Folder Name="Programs">
+      <Program Name="EX1_MP3"/>
+      <Program Name="EX2_ST_MP3"/>
+      <Program Name="EX3_LD"/>
+      <Program Name="EX5_SFC"/>
+      <Program Name="EX6_SFC"/>
+      <Program Name="EX7_SFC"/>
+      <Program Name="Main_SP_UDFB"/>
+      <Program Name="MP3_GRAPH"/>
+      <Program Name="MP3_UDFB_for_Recipe"/>
+      <Program Name="MySubProg"/>
+      <Program Name="MyUDFB"/>
+      <File Name="EX4_Light.gra"/>
+      <File Name="EX4_MP3.gra"/>
+   </Folder>
+   <File Name="MyRecipe_Array.rcp"/>
+   <Binding/>
+   <Profiles/>
+   <GlobalDef/>
+   <Vars/>
+   <Types/>
+</Appli>
